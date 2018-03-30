@@ -3,6 +3,7 @@ CHANGE something
 FIX something
 DEPRECATE something
 REMOVE something
+SECURITY fix
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
