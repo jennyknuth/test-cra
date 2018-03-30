@@ -2,6 +2,7 @@ ADD something
 CHANGE something
 FIX something
 DEPRECATE something
+REMOVE something
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
