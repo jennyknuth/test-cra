@@ -4,6 +4,7 @@ FIX something
 DEPRECATE something
 REMOVE something
 SECURITY fix
+add multiple lables
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
